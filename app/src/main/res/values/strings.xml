@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Android_Mobile</string>
+    <string name="usernameLabel">Username:</string>
+    <string name="passwordLabel">Password:</string>
+    <string name="loginButton">Login</string>
+
+</resources>
